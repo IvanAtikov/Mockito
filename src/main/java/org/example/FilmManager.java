@@ -20,8 +20,6 @@ public class FilmManager {
         }
         tmp[tmp.length - 1] = film;
         films = tmp;
-
-
     }
 
     public String[] FindAll() {
